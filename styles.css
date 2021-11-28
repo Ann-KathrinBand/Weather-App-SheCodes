@@ -6,12 +6,12 @@
     padding-top: 20px;
     padding-bottom: 20px;
     padding-left: 20px;
-    background: #a38068;
+    background: #b2967d;
   }
   
  
   #button {
-    background-color: #a38068;
+    background-color: #b2967d;
     color: white;
     border-radius: 3px;
     border-color: white;
@@ -54,7 +54,7 @@
   }
   
   #gitLink {
-    color: #a38068;
+    color: #b2967d;
   }
   
   .weather-forecast {
