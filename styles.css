@@ -13,6 +13,7 @@
  
   #button {
     background-color: rgb(94,32,40);
+    color: white;
     border-radius: 2px;
     border-color: white;
   }
