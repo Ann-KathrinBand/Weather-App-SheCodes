@@ -12,8 +12,9 @@
   
  
   #button {
-    background-color: white;
-    border: none;
+    background-color: rgb(94,32,40);
+    border-radius: 2px;
+    border-color: white;
   }
   
   h1 {
