@@ -1,0 +1,69 @@
+.appBorder {
+    border: 1px solid #861464;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+  }
+  
+ 
+  #button {
+    background-color: #8f1d6d;
+    border: none;
+  }
+  
+  h1 {
+    color: #8f1d6d;
+    margin-left: 30px;
+  }
+  
+  ul {
+    list-style: none;
+    color: #8f1d6d;
+  }
+  
+  li:first-letter {
+    text-transform: capitalize;
+  }
+  
+  #icon {
+    margin-left: 50px;
+  }
+  
+  .mainTemp {
+    display: block;
+    margin-left: 200px;
+    margin-top: -80px;
+    margin-bottom: 60px;
+    color: #8f1d6d;
+  }
+  
+  #furtherInfo {
+    margin-top: 30px;
+    color:#8f1d6d;
+  }
+  
+  #temperature {
+    font-size: 40px;
+    color:#8f1d6d;
+  }
+  
+  #gitLink {
+    color: #8f1d6d;
+  }
+  
+  .weather-forecast {
+    text-align: center;
+    color:#8f1d6d;
+  }
+  
+  .weather-forecast-date {
+    color: #8f1d6d;
+    font-size: 20px;
+  }
+  
+  #weather-forecast-min {
+    opacity: 0.5;
+  }
