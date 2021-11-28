@@ -6,6 +6,8 @@
     padding-top: 20px;
     padding-bottom: 20px;
     padding-left: 20px;
+    background: rgb(94,32,40);
+    background: linear-gradient(90deg, rgba(94,32,40,1) 0%, rgba(128,0,0,1) 51%, rgba(94,32,40,1) 100%);
   }
   
  
